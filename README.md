@@ -1,1 +1,1 @@
-# pic-hosting
+Hosting some pictures
